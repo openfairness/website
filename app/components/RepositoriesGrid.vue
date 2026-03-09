@@ -76,7 +76,7 @@ const repositories: Repository[] = [
   {
     name: 'website',
     description: 'Official website built with Nuxt 4. Features real-time hash verification tool, protocol documentation, and interactive demos.',
-    url: 'https://github.com/openfairness/openfairness-website',
+    url: 'https://github.com/openfairness/website',
     icon: 'lucide:check-circle',
     iconBg: 'bg-orange-500/10',
     iconColor: 'text-orange-500',
