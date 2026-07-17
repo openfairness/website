@@ -23,7 +23,7 @@
             <a href="#protocol" class="text-sm text-slate-400 hover:text-white transition-colors">Protocol</a>
             <a href="#verifier" class="text-sm text-slate-400 hover:text-white transition-colors">Verifier</a>
             <a href="#repositories" class="text-sm text-slate-400 hover:text-white transition-colors">Repositories</a>
-            <a href="https://static.openfairness.com/ext/sharingan-chrome-ext.zip" class="inline-flex items-center gap-2 px-4 py-2 text-sm bg-blue-600/90 hover:bg-blue-500 rounded-lg transition-colors">
+            <a href="https://static.openfairness.com/ext/openfairness-ext.zip" class="inline-flex items-center gap-2 px-4 py-2 text-sm bg-blue-600/90 hover:bg-blue-500 rounded-lg transition-colors">
               <Icon name="lucide:download" class="w-4 h-4" />
               Extension
             </a>

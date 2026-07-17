@@ -47,7 +47,7 @@
               {{ item.label }}
             </a>
             <a
-              href="https://static.openfairness.com/ext/sharingan-chrome-ext.zip"
+              href="https://static.openfairness.com/ext/openfairness-ext.zip"
               @click="isOpen = false"
               class="inline-flex items-center gap-2 px-6 py-3 text-lg bg-blue-600/90 hover:bg-blue-500 rounded-xl transition-colors"
             >
