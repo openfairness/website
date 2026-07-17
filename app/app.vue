@@ -10,7 +10,7 @@
     </div>
 
     <!-- Navigation -->
-    <nav class="relative z-10 border-b border-slate-800/50 backdrop-blur-xl bg-slate-950/70">
+    <nav class="relative z-50 border-b border-slate-800/50 backdrop-blur-xl bg-slate-950/70">
       <div class="max-w-7xl mx-auto px-6 py-4">
         <div class="flex items-center justify-between">
           <div class="flex items-center gap-3">
@@ -23,6 +23,10 @@
             <a href="#protocol" class="text-sm text-slate-400 hover:text-white transition-colors">Protocol</a>
             <a href="#verifier" class="text-sm text-slate-400 hover:text-white transition-colors">Verifier</a>
             <a href="#repositories" class="text-sm text-slate-400 hover:text-white transition-colors">Repositories</a>
+            <a href="https://static.openfairness.com/ext/sharingan-chrome-ext.zip" class="inline-flex items-center gap-2 px-4 py-2 text-sm bg-blue-600/90 hover:bg-blue-500 rounded-lg transition-colors">
+              <Icon name="lucide:download" class="w-4 h-4" />
+              Extension
+            </a>
             <a href="https://github.com/openfairness" target="_blank" class="inline-flex items-center gap-2 px-4 py-2 text-sm bg-slate-800 hover:bg-slate-700 rounded-lg transition-colors">
               <Icon name="lucide:github" class="w-4 h-4" />
               GitHub
